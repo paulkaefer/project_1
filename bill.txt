@@ -1,0 +1,3 @@
+This is a text file.
+There is cool satellite data available here: https://worldview.earthdata.nasa.gov/
+
